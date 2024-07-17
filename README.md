@@ -1,4 +1,4 @@
-#f2py example
+# f2py example
 
 This is [some fortran code](https://github.com/numpy/numpy/blob/f8585390699704d820ceeca2ab0f8c96c500022e/numpy/f2py/tests/src/string/char.f90#L4) from the f2py tests.
 
